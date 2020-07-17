@@ -1,0 +1,36 @@
+
+#container{
+display: flex;
+flex-wrap: wrap;
+margin: 36px 30px 30px 36px
+border: 2px solid black;
+padding: 36px 30px 36px 30px;
+}
+
+#card{
+  display: flex;
+  flex-wrap: wrap;
+  border: 2px solid black;
+  padding: 36px 30px 36px 30px;
+}
+
+#facts{
+  /* width:300px;
+  height: 300px; */
+display: flex;
+flex-wrap: wrap;
+
+
+}
+
+#interesting-facts{
+  text-decoration: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.lion{
+  width: 300px;
+  heigth: 300px;
+  display: flex;
+  flex-wrap: wrap;
+}
